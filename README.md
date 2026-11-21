@@ -1,1 +1,1 @@
-Student management system
+Student management system - developer version
