@@ -1,1 +1,1 @@
-University student portal
+Student Management System
