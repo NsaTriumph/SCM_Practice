@@ -1,2 +1,1 @@
-My first Git project
-This project is for learning Git
+Student management system
